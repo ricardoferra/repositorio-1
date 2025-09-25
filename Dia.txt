@@ -1,1 +1,5 @@
-Hoy es lunes
+Lunes
+Martes
+Miercoles
+JUeves
+Viernes
